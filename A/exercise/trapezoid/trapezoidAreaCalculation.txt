@@ -1,0 +1,19 @@
+If height is Known: {
+
+    A = [ ( a + b ) / 2 ] * h
+    -----------------------------------------------------
+
+        Inputs    ->                Processes 	         ->  	Output
+        a, b, h	            A = [ ( a + b ) / 2 ] * h	      A
+
+    -----------------------------------------------------
+    1 - Read or enter a value
+
+    2- Read or enter b value
+
+    3- Read or enter h value
+
+    4 - Add a to b then divide by 2 and finally multiply by h 
+
+    5 - Print the value
+}

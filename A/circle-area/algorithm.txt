@@ -1,0 +1,14 @@
+A = pi * r^2
+--------------------------------------------
+Inputs ->   Processes 	-> 	Output
+ r	   A = pi * r ^2	  A
+
+---------------------------------------------
+
+
+1 - Read or enter r value
+
+2 - Multiply r by itself and then multiply the value by pi
+
+3 - Print the value
+

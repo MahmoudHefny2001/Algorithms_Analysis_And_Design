@@ -1,0 +1,18 @@
+If height is Known: {
+
+    A = base * height
+    -----------------------------------------------------
+
+        Inputs    ->        Processes 	   -> 	Output
+     base, height	   A = base * height	      A
+
+    -----------------------------------------------------
+    1 - Read or enter base value
+
+    2- Read or enter height value
+
+    3 - Multiply base by height 
+
+    4 - Print the value
+}
+
