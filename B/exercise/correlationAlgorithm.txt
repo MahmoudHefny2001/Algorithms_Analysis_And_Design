@@ -1,0 +1,11 @@
+1 - Find the mean of x, and the mean of y
+
+2 - Subtract the mean of x from every x value (call them "a"), and subtract the mean of y from every y value (call them "b")
+
+3 - Calculate: ab, a^2 and b^2 for every value.
+
+4 - Sum up ab, sum up a^2 and sum up b^2
+
+5 - Divide the sum of ab by the square root of [ (sum of a^2) * (sum of b^2) ]
+
+

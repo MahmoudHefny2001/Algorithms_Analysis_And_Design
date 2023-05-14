@@ -1,0 +1,21 @@
+Inputs  ->          Processes           ->   Output
+  N, X[]      √[ ∑(x - mean)^2 / N ]             σ
+
+
+--------------------------------------------------------------
+
+1 - Declare an array x for numbers in memory, Average for the average, Sum for summation and N length of the array.
+
+2 - Read N
+
+3 - Read elements of x number of N times.
+
+4 -  Calculation of Average.
+
+5 - Summation of ( x[i] - Average )^2.
+
+6 - Divide by N.
+
+7 - take root.
+
+

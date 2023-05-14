@@ -1,0 +1,13 @@
+1 - x = [], key = 0
+
+2 - read x
+
+3 - for i = 1 forward i < x.length
+ 3.1 - key = x[i]
+ 3.2 - for j = i - 1 backward j >= 0
+   3.2.1 - if key < x[j] then x[j+1] = x[j]
+   3.2.2 - else break this loop
+ 3.3 - x[j+1] = key
+
+4 - print(x)
+
