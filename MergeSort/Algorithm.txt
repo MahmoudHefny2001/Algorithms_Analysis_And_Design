@@ -1,0 +1,32 @@
+1 - Read 
+	* Array (x), 
+	* Start and End indecies of the desired portion that we need to sort.
+
+2 - Don't continue if End >= Start
+
+3 - Calculate 
+	* Midpoint = (Start + End) / 2
+
+4 - Divide the portion of the array into NEW two arrays
+
+5 - Start recursion twice:
+	| one for the left portion
+	|| the other for the right portion
+
+6 - merge the two portions.
+
+---------------------------------------------------------------------------------------
+_______________________________________________________________________________________
+
+
+Merging Algorithm:
+
+1 - Read the Array (x), Start, midpoint and End index.
+
+2 - Crearte two new arrays for each side.
+
+3 - Compare all items in the arrays and sort it in the original array
+
+4 - move remain items in each array to the original array as is.
+
+
